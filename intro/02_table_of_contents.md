@@ -1,5 +1,5 @@
 !SLIDE bullets full-page
-# What i will cover #
+# Agenda
 
 * <span class="bullet">»</span> What is Rspec ?
 * <span class="bullet">»</span> RSpec features

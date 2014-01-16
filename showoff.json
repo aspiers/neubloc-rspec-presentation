@@ -6,6 +6,7 @@
     { "section" : "why_rspec" }, 
     { "section" : "rspec_in_action" }, 
     { "section" : "stubs_and_mocks" }, 
-    { "section" : "outro" } 
+    { "section" : "spring_and_guard" },
+    { "section" : "outro" }
               ]
 }

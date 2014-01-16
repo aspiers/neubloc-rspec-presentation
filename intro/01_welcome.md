@@ -1,3 +1,5 @@
 !SLIDE transition=fade
-# Stubs & Mocks using RSpec #
-### by Kamil Baćkowski ###
+# RSpec crash-course #
+### Adam Spiers ###
+### shamelessly ripped off ##
+### from Kamil Baćkowski ###

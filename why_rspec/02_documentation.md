@@ -25,7 +25,3 @@ Finished in 0.71323 seconds
 </pre>
 
 
-!SLIDE full-page
-### When tests output matter ###
-
-![integrity](integrity.png)

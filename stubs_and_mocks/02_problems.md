@@ -1,8 +1,8 @@
 <!SLIDE bullets full-page problems>
 
-## Are there any problems ? ##
+## Problems with stubbing/mocking? ##
 
-* <span class="bullet">»</span> Writing test is more time consuming
+* <span class="bullet">»</span> Writing tests is more time consuming
 * <span class="bullet">»</span> Need to know stubbed library internal implementations
 * <span class="bullet">»</span> Need to write an integration test first
 
